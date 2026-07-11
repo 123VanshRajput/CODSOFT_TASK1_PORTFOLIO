@@ -71,7 +71,10 @@
   border: 1px solid rgba(255, 255, 255, 0.12);
   padding: 0.5rem 0.8rem;
   border-radius: var(--radius-pill);
-  width: max-content;
+  width: fit-content;
+  max-width: 100%;
+  white-space: normal;
+  line-height: 1.5;
   backdrop-filter: blur(14px);
 }
 
