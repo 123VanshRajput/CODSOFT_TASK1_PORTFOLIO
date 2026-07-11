@@ -51,15 +51,13 @@ CODSOFT_TASK1_PORTFOLIO
 
 ## 📸 Preview
 
-### Desktop
+### 💻 Desktop View
 
-(Add Desktop Screenshot Here)
+![Desktop Preview](images/desktop-preview.png)
 
-### Mobile
+### 📱 Mobile View
 
-(Add Mobile Screenshot Here)
-
----
+![Mobile Preview](images/mobile-preview.png)
 
 ## 📥 Installation
 
