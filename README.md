@@ -53,11 +53,11 @@ CODSOFT_TASK1_PORTFOLIO
 
 ### 💻 Desktop View
 
-![Desktop Preview](images/desktop-preview.png)
+![Desktop Preview](assets\images\Screenshot_11-7-2026_9354_vansh-portfolio-codsof.netlify.app.jpeg)
 
 ### 📱 Mobile View
 
-![Mobile Preview](images/mobile-preview.png)
+![Mobile Preview](assets\images\IMG_20260711_093558.jpg)
 
 ## 📥 Installation
 
