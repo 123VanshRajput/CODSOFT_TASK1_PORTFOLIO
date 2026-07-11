@@ -1,0 +1,72 @@
+:root {
+  --primary-color: #7c3aed;
+  --secondary-color: #22d3ee;
+  --background-color: #060816;
+  --surface-color: rgba(17, 24, 39, 0.78);
+  --surface-elevated: #121c31;
+  --surface-muted: #0b1020;
+  --card-color: rgba(15, 23, 42, 0.92);
+  --text-color: #f8fafc;
+  --secondary-text: #a9b4c9;
+  --border-color: rgba(255, 255, 255, 0.12);
+
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Poppins", sans-serif;
+
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 2rem;
+  --space-8: 3rem;
+
+  --radius-sm: 0.5rem;
+  --radius-button: 0.85rem;
+  --radius-md: 0.9rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.25rem;
+  --radius-card: 1rem;
+  --radius-pill: 999px;
+
+  --shadow-sm: 0 10px 25px rgba(2, 6, 23, 0.30);
+  --shadow-md: 0 20px 50px rgba(2, 6, 23, 0.35);
+  --shadow-lg: 0 30px 70px rgba(2, 6, 23, 0.45);
+
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.45s ease;
+
+  --primary-alpha: rgba(124, 58, 237, 0.18);
+  --accent-soft: rgba(34, 211, 238, 0.15);
+  --glow-shadow: 0 0 0 1px rgba(124, 58, 237, 0.22);
+  --overlay-alpha: rgba(6, 8, 22, 0.84);
+  --project-hover-shadow: 0 24px 54px rgba(2, 6, 23, 0.34);
+  --hero-image-size: 380px;
+
+  --content-width: 1200px;
+  --container-width: 1200px;
+
+  --z-index-navbar: 1000;
+  --z-index-overlay: 1100;
+  --z-index-modal: 1200;
+}
+
+:root[data-theme="light"] {
+  --background-color: #f5f7ff;
+  --surface-color: #ffffff;
+  --surface-elevated: #eef2ff;
+  --surface-muted: #f7f9ff;
+  --card-color: #ffffff;
+  --text-color: #111827;
+  --secondary-text: #475569;
+  --border-color: #dde4f0;
+  --shadow-sm: 0 10px 24px rgba(15, 23, 42, 0.07);
+  --shadow-md: 0 18px 44px rgba(15, 23, 42, 0.1);
+  --shadow-lg: 0 24px 60px rgba(15, 23, 42, 0.14);
+  --overlay-alpha: rgba(15, 23, 42, 0.72);
+  --project-hover-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
+  --primary-alpha: rgba(124, 58, 237, 0.12);
+  --accent-soft: rgba(34, 211, 238, 0.14);
+}
